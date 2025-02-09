@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.env/
+
+# Large binaries
+*.dll
+*.pyd
+*.so
+*.exe
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
